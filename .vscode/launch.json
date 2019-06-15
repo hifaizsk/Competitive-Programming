@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Competitive-Programming_8e21dea8"
+        }
+    ]
+}
